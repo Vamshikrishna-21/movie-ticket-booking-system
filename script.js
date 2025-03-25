@@ -9,8 +9,8 @@ const seatData = {
         'G4', 'G5', 'H4', 'H5', 'I12', 'I13', 'J12', 'J13'
     ],
     prices: {
-        standard: 12.99,
-        premium: 18.99
+        standard: 350,
+        premium: 800
     }
 };
 
